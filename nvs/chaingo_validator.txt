@@ -1,0 +1,8 @@
+Hi, I'm Jacky Gu, Founder of ChainGo, a blockchain & Dapp developer, founder of EOSHackathon in China, former cto of btcmedia(China).
+https://github.com/eoshackathon
+
+My node is up now:72415b98cb22d09abd712eb7a5af8399276a3e1f@178.62.196.196:26657
+
+My validator address:
+iaa1dv5dtyfg94adv45d7vngf69w9frjc5x88r563d
+iap1addwnpepqd57am5e28w7tvxem2gxtsra3xu3t07r0puakypev6cftdwnpzxvca8v4fz
